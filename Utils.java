@@ -31,7 +31,7 @@ public class Utils
                                 
          }
        }
-                
+     //return the generic pair made up of the min and max 
     return new Pair<T>(minimumElement, maximumElement);
-        }
+ }
 }
